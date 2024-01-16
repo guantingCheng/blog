@@ -104,5 +104,4 @@ theme: hipaper
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy: 
-  type: git
-  repo: https://github.com/guantingCheng/blog.git
+  type: 
